@@ -18,6 +18,7 @@
  * 
  */
 int main(int argc, char** argv) {
+   
     printf("WERTE DER VARIABLEN\n");
     printf("------------------------------------------------------\n");
     printf("Variable\t Zeichen\t dez\t hex\t okt\t\n");
