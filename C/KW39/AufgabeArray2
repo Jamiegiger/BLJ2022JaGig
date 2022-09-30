@@ -1,0 +1,69 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/* 
+ * File:   main.c
+ * Author: jamie
+ *
+ * Created on 30. September 2022, 11:29
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+/*
+ * 
+ */
+int main(int argc, char** argv) {
+    int sui [5];
+    int arreySize = sizeof (sui);
+    int lastIndex = arreySize -1;
+    int temp;
+    int arreySizeIndex = sizeof (sui[0]);
+    int Value = arreySize / arreySizeIndex;
+
+    for (int i = 0; i < Value; i++) {
+        scanf("%d", &sui [i]);
+    }
+
+
+
+    for (int z = 0; z < Value; z++) {
+
+        for (int i = 0; i < Value - 1; i++) {
+
+            if (sui[i] > sui [i + 1]) {
+                temp = sui [i];
+                sui [i] = sui [i + 1];
+                sui [i + 1] = temp;
+            }
+        }
+    }
+
+
+
+    for (int x = 0; x < Value; x++) {
+        printf("\n%d", sui[x]);
+    }
+    
+    
+    int DesNumb;
+    printf("\ntype the number that u want to look up\n");
+    scanf ("%d", DesNumb);
+    
+    
+                    
+    
+    
+    
+    
+
+
+
+    return (EXIT_SUCCESS);
+
+}
+
