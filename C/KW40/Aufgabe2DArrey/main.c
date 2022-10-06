@@ -33,10 +33,12 @@ int main() {
     int chooseToDo;
 
     int i, j;
+    printf("welcome to the 2D Arrey with coordinations\n");
+    printf("---------------------------------------------");
 
 
     do {
-        printf("Two Dimensional array:\n");
+        printf("\nTwo Dimensional array:\n");
         for (i = 0; i < 5; i++) {
             for (j = 0; j < 5; j++) {
                 printf("%d  ", arr[i][j]);
