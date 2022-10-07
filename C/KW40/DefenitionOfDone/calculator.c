@@ -18,10 +18,10 @@ int calcPow(int base, int exp){
     return result;
 }
 
-int squareRoot(int sqaure){
+int squareRoot(int square){
     int c = 2;
     while(c > 1){
-        if(c * c  == sqaure){
+        if(c * c  == square){
         break;
         c += 2;
         return c; }
