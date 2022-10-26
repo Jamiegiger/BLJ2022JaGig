@@ -1,0 +1,152 @@
+<!doctype html>
+<html>
+    <head>
+       <b> Probezeitbericht <br> <br> </b>
+       
+    </head>
+    <body>
+        <br>lernende/r: <input type="name"><br>
+    </body>
+    <body>
+        Lehrberuf: 
+        <select name="pets" id="pet-select">
+            <option value="">--Please choose an option--</option>
+            <option value="Applikationsentwickler/in">Applikationsentwickler/in</option>
+            <option value="Platformentwickler/in">Platformentwickler/in</option>
+            <option value="Mediamatiker/in">Mediamatiker/in</option>
+            <option value="Kauffrau/Kaufmann">Kauffrau/Kaufmann</option>
+            
+        </select>
+        
+    </body>
+    <form>
+        <p>Berufsmaturität:</p>
+        <fieldset>
+          <input type="radio" id="mc" name="Zahlmethode" value="Mastercard">
+          <label for="mc"> Mit BMS</label> 
+          <input type="radio" id="vi" name="Zahlmethode" value="Visa">
+          <label for="vi"> Ohne BMS</label>
+          
+        </fieldset>
+      </form>
+<body> 
+    Lehrbeginn<input type="date"><br>
+</body>
+<body>
+    <br>Berufsbildner/in: <input type="name"><br>
+</body>
+<body>
+    <label for="w3review"></b>Gesamteindruck:<br><br></b></label>
+
+    <textarea id="w3review" rows="4" cols="30">
+
+    </textarea> <br><br>
+</body>
+<body>
+    Beurteilung<br><br>
+    ____________________________________________________________________________________________________________________
+</body>
+<fieldset>
+    <legend>Fachkompetenz<br> Fetigkeiten, Kenntnisse, Quantität, Qualität, etc.</legend>
+
+    <div>
+      <input type="checkbox" id="scales" name="scales" unchecked>
+      <label for="scales">sehr gut</label>
+    </div>
+
+    <div>
+      <input type="checkbox" id="horns" name="horns" unchecked>
+      <label for="horns">gut</label>
+    </div>
+    <div>
+        <input type="checkbox" id="scales" name="scales" unchecked>
+        <label for="scales">genügend</label>
+      </div>
+      <div>
+        <input type="checkbox" id="scales" name="scales" unchecked>
+        <label for="scales">ungenügend</label>
+      </div>
+</fieldset>
+<fieldset>
+    <legend>Methodenkompetenz<br> Lernfähigkeit, Arbeitsmethodik, Arbeitssicherheit, Kreativität, etc.</legend>
+
+    <div>
+      <input type="checkbox" id="scales" name="scales" unchecked>
+      <label for="scales">sehr gut</label>
+    </div>
+
+    <div>
+      <input type="checkbox" id="horns" name="horns" unchecked>
+      <label for="horns">gut</label>
+    </div>
+    <div>
+        <input type="checkbox" id="scales" name="scales" unchecked>
+        <label for="scales">genügend</label>
+      </div>
+      <div>
+        <input type="checkbox" id="scales" name="scales" unchecked>
+        <label for="scales">ungenügend</label>
+      </div>
+</fieldset>
+<fieldset>
+    <legend>Sozialkompetentz<br> Teamfähigkeit, Firmenbezug,umweltgerechtes Verhalten, etc.</legend>
+
+    <div>
+      <input type="checkbox" id="scales" name="scales" unchecked>
+      <label for="scales">sehr gut</label>
+    </div>
+
+    <div>
+      <input type="checkbox" id="horns" name="horns" unchecked>
+      <label for="horns">gut</label>
+    </div>
+    <div>
+        <input type="checkbox" id="scales" name="scales" unchecked>
+        <label for="scales">genügend</label>
+      </div>
+      <div>
+        <input type="checkbox" id="scales" name="scales" unchecked>
+        <label for="scales">ungenügend</label>
+      </div>
+</fieldset>
+<fieldset>
+    <legend>Selbstkompetenz<br>Selbständigkeit, leistungsbereitschaft,flexibilität, etc.</legend>
+
+    <div>
+      <input type="checkbox" id="scales" name="scales" unchecked>
+      <label for="scales">sehr gut</label>
+    </div>
+
+    <div>
+      <input type="checkbox" id="horns" name="horns" unchecked>
+      <label for="horns">gut</label>
+    </div>
+    <div>
+        <input type="checkbox" id="scales" name="scales" unchecked>
+        <label for="scales">genügend</label>
+      </div>
+      <div>
+        <input type="checkbox" id="scales" name="scales" unchecked>
+        <label for="scales">ungenügend</label>
+      </div>
+</fieldset>
+<body>
+    Fazit<br><br>wProbezeit: 
+    <select name="pets" id="pet-select">
+        <option value="">--Please choose an option--</option>
+        <option value="Applikationsentwickler/in">bestanden</option>
+        <option value="Platformentwickler/in">durchgefallen</option>
+        
+        
+    </select><br><br>
+    
+</body>
+<body>
+    <label for="w3review"></b>Bemerkungen<br><br></b></label>
+
+    <textarea id="w3review" rows="4" cols="30">
+
+    </textarea> <br><br>
+</body>
+<button class="seamless">Speichern</button>
+</html>
