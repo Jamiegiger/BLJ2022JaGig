@@ -59,7 +59,7 @@ int main() {
             case 1:
                 printf("give me an x coordinate: ");
                 scanf("%d", &x);
-                printf("give me an x coordinate: ");
+                printf("give me an y coordinate: ");
                 scanf("%d", &y);
                 if (arr[x][y] == 0) {
                     printf("\nx and y is 0, which numner u want to save in that place: ");
@@ -73,7 +73,7 @@ int main() {
             case 2:
                 printf("give me an x coordinate: ");
                 scanf("%d", &x);
-                printf("give me an x coordinate: ");
+                printf("give me an y coordinate: ");
                 scanf("%d", &y);
                 if (arr[x][y] != 0) {
                     printf("\nx and y is 0, which numner u want to save in that place: ");
