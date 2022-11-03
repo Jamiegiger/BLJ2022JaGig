@@ -1,0 +1,24 @@
+
+#include <stdio.h>
+#include <stdlib.h>
+
+/*
+ * 
+ */
+int main(int argc, char** argv) {
+typedef struct Node{
+int data;
+struct Node *next;
+
+} TNode;
+
+
+
+
+
+
+
+
+    return (EXIT_SUCCESS);
+}
+
