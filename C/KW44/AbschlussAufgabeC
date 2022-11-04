@@ -1,24 +1,86 @@
 
+
 #include <stdio.h>
-#include <stdlib.h>
+#include <malloc.h>
 
-/*
- * 
- */
-int main(int argc, char** argv) {
-typedef struct Node{
-int data;
-struct Node *next;
+typedef struct TNode {
+    int zahl;
+    struct TNode *next;
 
-} TNode;
+}
+TNode;
 
+void printList(TNode *head) { // Man muss mit dem Element !=NULL arbeiten, dass es fortfährt bis NULL kommt und NULL ist das Ende der Liste.
 
+    TNode *TNode = head;
+    while (TNode != NULL) {
+        printf("%d\n", TNode->zahl);
+        TNode = TNode->next;
 
-
-
-
-
-
-    return (EXIT_SUCCESS);
+    }
 }
 
+void newNode(TNode **head) {
+
+    int v = 23;
+    for (int i = 0; i < 6; i++) {
+        TNode *newNode = malloc(sizeof (TNode));
+        newNode->zahl = v + i;
+        newNode->next = NULL;
+
+
+
+        //
+        if (*head == NULL) {
+            *head = newNode;
+
+
+
+        } else {
+            TNode *lastNode = *head;
+            while (lastNode->next != NULL) {
+                lastNode = lastNode->next;
+            }
+            lastNode->next = newNode;
+
+
+
+        }
+
+    }
+
+
+
+}
+
+
+int main() {
+
+
+    struct TNode* head = NULL;
+    struct TNode* second = NULL;
+    struct TNode* third = NULL;
+    struct TNode* fourth = NULL;
+
+    head = (struct TNode*) malloc(sizeof (struct TNode));
+    second = (struct TNode*) malloc(sizeof (struct TNode));
+    third = (struct TNode*) malloc(sizeof (struct TNode));
+    fourth = (struct TNode*) malloc(sizeof (struct TNode));
+
+    head->zahl = 12;
+    head->next = second;
+    second->zahl = 2;
+    second->next = third;
+    third->zahl = 187;
+    third->next = fourth;
+    fourth->zahl = 69;
+    fourth->next = NULL;
+
+    // printf("%d", fourth->zahl);
+
+
+
+    newNode(&head);
+    printList(head);
+    return 0;
+}
