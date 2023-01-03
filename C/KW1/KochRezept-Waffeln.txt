@@ -1,0 +1,165 @@
+    <!DOCTYPE html>
+<head>
+    <a href="#lession1">Zutaten </a><br /> <a href="#lession2">Fotos von Zutaten </a><br />    <a href="#lession3">Ablauf der Waffeln &emsp; &emsp;</a><br />     <a href="#lession4">Ergebnis </a><br />
+</head>
+</header> Waffeln
+<body>
+   <br><br><b>Auflistung  der Zutaten für Waffeln (4Stücke)</b> <br> <br>
+
+   <table>
+    <tr>
+      <th>Zutaten</th>
+      <th>Menge</th>
+      <th>&emsp;Zeit</th>
+    </tr>
+    <tr>
+      <td><b>weiche Butter <br></b></td>
+      <td>
+        <ul>
+            <li>Wir haben eine intensive Vorstellungsrunde gemacht mit Selbstportraits erstellen und gemeinsame Eigenschaften suchen. </li>
+            <li>Zusammen mit Robin haben wir WLAN + Office eingerichtet. Ausserdem haben wir den WebMail Zugang vorbereitet, um direkt starten zu k&ouml;nnen.</li>
+            <li>Bei Bobby haben wir unsere gegenw&auml;rtige Situation und die Gew&uuml;nschte (in einem Jahr), anhand von Eigenschaften eines Tieres beschrieben.</li>
+            <li>Unter Nadines Anleitung haben wir das Spiel LifeStyle gespielt, um uns gegenseitig besser kennenzulernen.</li>
+            <li>Wir haben einen Rundgang durch das Geb&auml;ude gemacht.</li>
+          </ul>
+      </td>
+      <td>
+        <ul>
+            <li>4h15min</li>
+            <li>1h</li>
+            <li>1h30min</li>
+            <li>30min</li>
+            <li>1h</li>
+        </ul>
+      </td>
+    </tr>
+
+    <tr>
+        <td><b>Dienstag <br></b> 18.08.2020</td>
+        <td>
+          <ul>
+              <li>Unter Anleitung der BB haben wir unseren Arbeitsplatz definitiv eingerichtet. </li>
+              <li>In kleinen Gruppen organisierten wir einen Postenlauf mit vorgegebenen Zielen und erkundeten Z&uuml;rich und Umgebung.</li>
+              <li>Zum Postenlauf schrieben wir eine Pr&auml;sentation.</li>
+              <li>Die vorbereiteten Pr&auml;sentationen wurden von den insgesamt sechs Gruppen gehalten.</li>
+              <li>Unter Nadines Anleitung haben wir das Spiel LifeStyle gespielt, um uns gegenseitig besser kennenzulernen.</li>
+              <li>Wir haben einen Rundgang durch das Geb&auml;ude gemacht.</li>
+            </ul>
+        </td>
+        <td>
+          <ul>
+              <li>1h</li>
+              <li>3h45min</li>
+              <li>1h</li>
+              <li>1h</li>
+              <li>1h15min</li>
+              <li>15min</li>
+          </ul>
+        </td>
+      </tr>
+      </tr>
+
+      <tr>
+        <td><b>Mittwoch<br></b> 19.08.2020</td>
+        <td>
+          <ul>
+              <li>Man gab uns Zeit f&uumlrs arbeiten am Arbeitsjournal. </li>
+              <li>Wir haben den Leitfaden mit Gruppenarbeiten und Flipchart-Pr&auml;sentationen vertieft.</li>
+              <li>Die oberen Lehrjahre und deren Berufsbildner wurden uns vorgestellt.</li>
+              <li>Bobby hat uns ins Office eingef&uumlhrt und wir arbeiten selbstst&auml;ndig an der Office Einf&uumlhrung.</li>
+              <li>Wir schauen mit Bobby den Code of Conduct genauer an und behandeln ihn intensiv.</li>
+            </ul>
+        </td>
+        <td>
+          <ul>
+              <li>1h40min</li>
+              <li>45min</li>
+              <li>40min</li>
+              <li>2h40min</li>
+              <li>30min</li>
+              
+          </ul>
+        </td>
+      </tr>
+      </tr>
+
+      <tr>
+        <td><b>Donnerstag<br></b> 20.08.2020</td>
+        <td>
+          <ul>
+              <li>Wir haben das Nutzungsreglement selbstst&auml;ndig durchgelesen, offene Fragen gekl&auml;rt und es unterschrieben. </li>
+              <li>Robin hat uns ins bin&auml;re Zahlensystem eingef&uumlhrt.</li>
+              <li>Wir haben das Tangram-Spiel gespielt unter der Anleitung von Laura gespielt.</li>
+              <li>Man hat uns wieder Zeit gegeben, um an der Office Einf&uumlhrung zu arbeiten.</li>
+              <li>Wir haben ein weiteres Kennenlernspiel gespielt.</li>
+            </ul>
+        </td>
+        <td>
+          <ul>
+              <li>20min</li>
+              <li>30min</li>
+              <li>1h20min</li>
+              <li>5h</li>
+              <li>50min</li>
+              
+          </ul>
+        </td>
+      </tr>
+      </tr>
+  
+  
+  </table>
+
+  
+
+   <br><br><a id="lession1"><b>Wochenr&uumlckblick </b> <br></a>
+   <br>In dieser ersten Arbeitswoche haben wir mit vielen spielerischen Aktivit&auml;ten die Namen der anderen Auszubildenden gelernt. Zum Beispiel mit dem Spiel LifeStyle, welches wir unter der Anleitung von Nadine und Bobby gespielt haben. Bei Bobby haben wir mit Tierfiguren unsere derzeitige Gef&uuml;hlslage beschrieben und in einem zweiten Durchlauf die erwartete Situation anhand eines zweiten Tieres. Im Anschluss an die Assoziation mit den Tieren, durften wir von ausgew&auml;hlten Mitlernenden positive Eigenschaften aufschreiben und diese dann mitteilen. Ausserdem konnten wir Jugendliche mit &auml;hnlichkeiten in unserem Leben suchen – anhand eines selbst geschriebenen Steckbriefes – damit wir schneller neue Leute kennenlernen. <br>
+   <br>Auch wurden wir unter Anleitung von Robin damit betraut, unsere Notebooks/Laptops einzurichten. Dazu geh&ouml;rte das Einrichten einer WLAN Verbindung, des WebMail-Kontos sowie die Microsoft Applikation «Teams», welche uns den Arbeitsalltag vereinfachen, und zudem die schnelle und zuverl&auml;ssige Kommunikation, sowie Auftragserteilung, gew&auml;hrleisten soll. Das Anschliessen des Laptops an einen Bildschirm geh&ouml;rte ebenfalls zu diesen T&auml;tigkeiten. <br>
+   <br>Ein bisschen Bewegung und Ortskenntnisse geh&ouml;ren dazu, weshalb von den Berufsbildnern ein Postenlauf organisiert wurde, den wir in kleinen Gruppen absolvieren sollten. Die Route konnten wir im Team planen, die zu besuchenden Posten waren jedoch vorgegeben.
+   Nach dem aufschlussreichen Postenlauf wurden wir damit beauftragt eine Pr&auml;sentation vorzubereiten, in welcher wir die wichtigsten Erkenntnisse festhalten sollten. Nach eben jener genannten Pr&auml;sentation spielten wir eine Runde Kahoot, um die Namen der anderen Auszubildenden im B&uuml;ro festigen zu k&ouml;nnen.<br>
+   Im Anschluss hatten wir einen Block, in welchem es vor allem um die Erwartungen der Lernenden und des Ausbildungsbetriebes ging. Wir diskutierten diverse wichtige Themen, um eine erfolgreiche Zusammenarbeit gew&auml;hrleisten zu k&ouml;nnen.<br>
+   <br>Wir haben jeden Tag Zeit erhalten, um am Arbeitsjournal arbeiten zu k&ouml;nnnen. Ausserdem haben wir in mehreren Gruppen Flipchart-Pr&auml;sentationen vorbereitet, um die wichtigsten Aspekte des Leitfadens besser verstehen zu k&ouml;nnen und offene Fragen zu kl&auml;ren.<br>
+   <br>Bobby hat uns auch die Auszubildenden der oberen Lehrjahre vorgestellt, sowie deren Berufsbildner. Auch mit ihm haben wir den Verhaltenskodex der Noser Gruppe gelesen und offene Fragen gekl&auml;rt.<br>
+   <br>Bobby hat uns mit einer selbstst&auml;ndigen Einf&uuml;hrung ins Office beauftragt und wir haben mit der Bearbeitung der Einf&uuml;hrung ins Office Programm «Word» begonnen.<br>
+   <br>Wir haben das ein Behauptungsspiel gespielt, bei welchem 2 richtige und eine falsche Behauptung aufgeschrieben wurden, dies hat uns wieder neue Informationen zu unseren Mitlernenden gegeben und hat zu vielen Lachern gef&uuml;hrt. Ausserdem hat Robin uns eine Einf&uuml;hrung ins bin&auml;re Zahlensystem gegeben und wir konnten einige kurze Aufgaben dazu l&ouml;sen. Ausserdem haben wir selbstst&auml;ndig das Nutzungsreglement gelesen, die offenen Fragen gekl&auml;rt und es dann unterschrieben, damit das KV die Unterlagen einscannen kann.<br>
+   <br>Um herauszufinden wie wichtig Kommunikation effektiv ist, haben wir in Zweiergruppen Tangram gespielt, dies sollte eine Vorbereitung auf die Arbeit mit Kunden sein, da es viele Fehler oder Unklarheiten geben kann.<br>
+
+
+  <br> <div id="lession2">   <b>Lupe der Woche - IPERKA-Methode</b> <br></div>
+  <br><table>
+    <tr>
+  <td>Die IPERKA-Methode, eine Methodik zur<br> systematischen Bearbeitung<br>
+  von Auftr&auml;gen. Die IPERKA-Methode umfasst<br> sechs Arbeitsschritte,<br>
+  welche vom Sammeln von Informationen bis hin zur Ausf&uuml;hrung,<br>
+  Kontrolle und Auswertung alle Schritte beinhaltet.<br>
+  Im folgenden Text wird die IPERKA-Methodik n&auml;her erl&auml;utert und es<br> 
+  wird auf jeden der sechs Schritte n&auml;her<br> eingegangen.<br>
+</td>
+  <td><img src="https://lernjournal.d4rkmindz.ch/lib/exe/fetch.php/wiki:iperka.png?cache="width= "300" height="190" alt="Bild"><br>"https://lernjournal.d4rkmindz.ch/lib/exe/fetch.php/wiki:iperka.png?cache="  
+  </tr>
+</table>
+    
+    <ol>
+    <li><b>Informieren</b><br>In diesem Schritt geht es darum, den Auftrag genau zu verstehen, und das definierte Ziel zu erkennen. Danach ist das Sammeln von Informationen im Fokus. Bei der Informationsbeschaffung m&uuml;ssen die verschiedenen W-Fragen beantwortet oder gekl&auml;rt werden, bevor man zum n&auml;chsten Schritt gehen kann; der Planung.</li>
+    <li><b>Planen</b><br>Bei der Planung geht es um das Ausarbeiten von verschiedenen L&ouml;sungsvarianten und das Vorgehen bei jeder variablen L&ouml;sung. Zu der Planung geh&ouml;ren auch Teile wie das sch&auml;tzen des Zeitbedarfs und das Ermitteln von Werkzeugen und Hilfsmitteln, welche die Realisierung vereinfachen.</li>
+    <li><b>Entscheiden</b><br>Bei der Entscheidung wird eine der vorher bei der Planung erarbeiteten L&ouml;sungsvarianten gew&auml;hlt. Dies entscheidet (bei einer Teamarbeit) die ganze Gruppe und sollte, wenn m&ouml;glich einstimmig erfolgen. Die geplante Vorgehensweise wird am Arbeitsplatz sichtbar platziert und die einzelnen Mitglieder der Gruppe erhalten je eine Kopie, um effizientes Arbeiten zu erm&ouml;glichen.</li>
+    <li><b>Realisieren</b><br>Die Realisierung beansprucht am meisten Zeit. Ohne dringende Probleme oder wichtige Gr&uuml;nde sollte nicht vom Ablauf abgewichen werden, dies da jeder Arbeitsschritt sorgf&auml;ltig geplant wurde und der Zeitplan sehr straff sein kann.</li>
+    <li><b>Kontrollieren</b><br>Bei der Kontrolle kann es zu Unstimmigkeiten mit dem Arbeitsplan kommen, wenn Fristen nicht eingehalten werden, oder zu wenig Zeit eingeplant wurde. Wenn dies nicht der Fall ist und man keine Anpassung am Arbeitsplan vornehmen muss, sollte jede Arbeit sorgf&auml;ltig kontrolliert werden, damit im Nachhinein keine Zeit mehr f&uuml;r unn&ouml;tige Korrekturen aufgewendet werden muss.</li>
+    <li><b>Auswertung</b><br>Nach dem Abschluss der Arbeit und allf&auml;lligen Kontrollen wird das Endresultat, sowie das Vorgehen analysiert und man reflektiert in der Gruppe, ob es allf&auml;llige Verbesserungsvorschl&auml;ge f&uuml;r eine n&auml;chste Arbeit gibt. Ausserdem schaut man auf die eigen geleistete Arbeit zur&uuml;ck und h&auml;lt fest, welche T&auml;tigkeiten selbstst&auml;ndig und richtig ausgef&uuml;hrt werden konnten und was man selbst noch verbessern muss.</li>
+  </ol>
+</td>
+ 
+
+
+  <br> <p id="lession3"><b>Reflexion</b> <br></p> 
+
+  <table>
+    <tr>
+  <td>In dieser ersten Arbeitswoche durfte ich viele neue, großartige Leute kennenlernen und konnte<br> bereits einen kleinen Personenkreis herausfiltern, mit dem ich den Hauptteil meiner Ausbildung <br>gerne verbringen m&ouml;chte. Ebenfalls vorstellen kann mich mir, dass mit der einen oder anderen<br> Person auch privat Kontakt aufgebaut wird. <br>
+    Im sp&auml;teren Verlauf der Ausbildung und auch im Privatleben werde ich diese neuen Erkenntnisse<br> (Office) sicher anwenden k&ouml;nnen und mir dadurch die Arbeit erleichtern. Bei weiteren Bewerbungen<br> oder schriftlichen Arbeiten wird mir das neu erlangte Wissen eine professionellere Arbeitsweise <br>erm&ouml;glichen.
+    Beim Arbeiten im Word, speziell mit den Formatvorlagen ist definitiv noch Verbesserungspotential<br> da. Durch wiederholtes Arbeiten mit dieser Funktion sollte es mir jedoch m&ouml;glich sein, auch mit<br> diesem Tool effizient arbeiten zu k&ouml;nnen.
+    
+</td>
+</table>
+
+</body>
