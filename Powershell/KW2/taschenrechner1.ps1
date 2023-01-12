@@ -128,10 +128,10 @@ switch ($option){
 }
 
 function Division {
-    [int]$idkDurch = 0
-    [int]$result = 0
-    [int]$fin = 0
-    [int]$temp = 0
+    [float]$idkDurch = 0
+    [float]$result = 0
+    [float]$fin = 0
+    [float]$temp = 0
 
     Write-Output "enter a number: "
     $result = Read-Host 
@@ -153,7 +153,7 @@ function Division {
 }while ($idkDurch -eq 0)
 [string]$fin = "the result is: $result"
 
-return [string]$result
+return [string]$fin
 }
 
 
