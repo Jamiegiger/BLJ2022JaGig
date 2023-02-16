@@ -1,7 +1,7 @@
 
 function Start-TheGame {
     function Get-Move($Player) {
-        $PlayerInput = Read-Host "$Player's turn: Give your coordinates. The first coordination starts at 1"
+        $PlayerInput = Read-Host "$Player's turn: Give your coordinates. The first coordination starts at 1 (y/x)"
         $Coords = @{
             RowMove    = [int][string]$PlayerInput[0]
             ColumnMove = [int][string]$PlayerInput[1] - 1
@@ -26,18 +26,20 @@ function Get-HasPlayerWon($Player) {
     return $false
 }
 
+
+
 $PlayingField = @{
-    1 = "|.|", "|.|", "|.|"
-    2 = "|.|", "|.|", "|.|"
-    3 = "|.|", "|.|", "|.|"
+    1 = ".", ".", "."
+    2 = ".", ".", "."
+    3 = ".", ".", "."
 }
 
 $XsMove = $True
 while ($true) {
     if ($XsMove) {
         $Move = get-Move X
-        if ($PlayingField[$Move.RowMove][$Move.ColumnMove] -eq "|.|") {
-            $PlayingField[$Move.RowMove][$Move.ColumnMove] = "|X|"
+        if ($PlayingField[$Move.RowMove][$Move.ColumnMove] -eq ".") {
+            $PlayingField[$Move.RowMove][$Move.ColumnMove] = "X"
         }
 
         else {
@@ -46,17 +48,18 @@ while ($true) {
         }
 
         if (Get-HasPlayerWon X) {
+
             return "X has won! suuuuuui!"
         }
 
-        $PlayingField.GetEnumerator() | sort name | % {write-host $_.value}
+        #PrintField 
         $XsMove = $false
     }
 
     elseif (-not $XsMove) {
         $Move = get-Move O
-        if ($PlayingField[$Move.RowMove][$Move.ColumnMove] -eq "|.|") {
-            $PlayingField[$Move.RowMove][$Move.ColumnMove] = "|O|"
+        if ($PlayingField[$Move.RowMove][$Move.ColumnMove] -eq ".") {
+            $PlayingField[$Move.RowMove][$Move.ColumnMove] = "O"
 
            
         }
@@ -72,7 +75,7 @@ while ($true) {
             
         }
 
-        $PlayingField.GetEnumerator() | sort name | % {write-host $_.value}
+        #PrintField
         $XsMove = $True
     }
 }
@@ -82,4 +85,4 @@ while ((Read-Host "Do you want to start the game? y/n") -eq "y"){
 Start-TheGame
 }
 
-Read-host
+

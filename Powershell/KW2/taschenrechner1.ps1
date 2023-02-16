@@ -4,8 +4,7 @@ function Plus {
     [int]$fin = 0
     [int]$temp = 0
 
-    Write-Output "enter a number: "
-    $result = Read-Host 
+    $result = Read-Host "enter a number: "
 
     do{ 
     
